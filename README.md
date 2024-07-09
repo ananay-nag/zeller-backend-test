@@ -4,3 +4,4 @@
 - ```npm run build``` 
 - ```npm run buildAndExecute```
 - ```npm run execute```
+- ```npm test```
