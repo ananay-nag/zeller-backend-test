@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "scripts": {
+    "build" : "tsc",
+    "buildAndExecute" :"tsc && node ./build/index.js",
+    "execute" :"node ./build/index.js"
+  }
+}
